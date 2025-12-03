@@ -45,6 +45,7 @@ sleep 3
 if sudo systemctl is-active --quiet zapret; then
     echo "✅ Roblox-режим активен!"
     echo "🎮 Открой Sober"
+    echo "🌱 Следи за обновлениями: https://github.com/web-pentest"
 else
     echo "❌ Ошибка запуска"
 fi
