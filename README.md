@@ -1,4 +1,4 @@
-![Coding Vibes](https://img.icons8.com/?size=100&id=111924&format=png&color=000000)
+![Coding Vibes](https://sober.vinegarhq.org/img/icon/sober.svg)
 
 # ZAPRET-Roblox-Linux
 🛡️ ZAPRET - это кроссплатформенный набор инструментов для обхода блокировок интернет-сервисов,
