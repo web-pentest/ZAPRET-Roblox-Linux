@@ -11,6 +11,13 @@
 
 🤝 Личная проверка:
 > - **Arch Linux**
+
+⚙️ Установка
+Linux
+просто сделайте одну команду и у вас встанет всё на свои места!:
+```
+curl -fsSL https://raw.githubusercontent.com/web-pentest/ZAPRET-Linux-Windows/main/roblox/zapret-roblox.sh -o /opt/zapret-roblox/bin/zapret-roblox.sh
+```
 ---
 ### Не окончательная версия на линукс...
 
